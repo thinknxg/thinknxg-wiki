@@ -1,14 +1,14 @@
 <div align="center">
 
-<img width="80" alt="wiki" src="https://github.com/user-attachments/assets/4869d211-fae2-4e93-8275-de433556feb0" />
-<h1>Frappe Wiki</h1>
+<img width="80" alt="wiki" src="https://thinknxg.com/wp-content/uploads/2023/12/favicon.svg1-01.png" />
+<h1>thinkNXG Wiki</h1>
 
 **Open Source Documentation Tool**
 
 [![Wiki](https://img.shields.io/endpoint?url=https://cloud.cypress.io/badge/simple/w2jgcb/master&style=flat&logo=cypress)](https://cloud.cypress.io/projects/w2jgcb/runs)
 [![CI](https://github.com/frappe/wiki/actions/workflows/ci.yml/badge.svg?event=push)](https://github.com/frappe/wiki/actions/workflows/ci.yml)
 
-<img width="1582" alt="Hero Image" src="https://github.com/user-attachments/assets/b4bedd31-96fe-4c07-aded-339eade4a7d1" />
+<img width="1582" alt="Hero Image" src="https://thinknxg.com/wp-content/uploads/2023/12/favicon.svg1-01.png" />
 
 <br />
 <br />
@@ -55,18 +55,10 @@ Author Content in Markdown: Write and format content effortlessly using Markdown
 
 ### Managed Hosting
 
-You can try [Frappe Cloud](https://frappecloud.com), a simple, user-friendly and sophisticated [open-source](https://github.com/frappe/press) platform to host Frappe applications with peace of mind.
+You can try [Frappe Cloud](https://frappecloud.com), a simple, user-friendly and sophisticated [open-source](https://github.com/frappe/press) platform to host thinknxg applications with peace of mind.
 
 It takes care of installation, setup, upgrades, monitoring, maintenance and support of your Frappe deployments. It is a fully featured developer platform with an ability to manage and control multiple Frappe deployments.
 
-<div>
-    <a href="https://frappecloud.com/marketplace/apps/wiki" target="_blank">
-        <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://frappe.io/files/try-on-fc-white.png">
-            <img src="https://frappe.io/files/try-on-fc-black.png" alt="Try on Frappe Cloud" height="28" />
-        </picture>
-    </a>
-</div>
 
 ## Development Setup
 
@@ -85,26 +77,9 @@ bench start
 
 ```
 # get app
-$ bench get-app https://github.com/frappe/wiki
+$ bench get-app https://github.com/thinknxg/thinknxg-wiki
 
 # install on site
 $ bench --site sitename install-app wiki
 
 ```
-
-## Learn and connect
-- [Telegram Public Group](https://t.me/frappewiki)
-- [Discuss Forum](https://discuss.frappe.io/c/wiki/72)
-- [Documentation](https://docs.frappe.io/wiki/)
-- [YouTube](https://www.youtube.com/@frappetech)
-
-<br>
-<br>
-<div align="center" style="padding-top: 0.75rem;">
-    <a href="https://frappe.io" target="_blank">
-        <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://frappe.io/files/Frappe-white.png">
-            <img src="https://frappe.io/files/Frappe-black.png" alt="Frappe Technologies" height="28"/>
-        </picture>
-    </a>
-</div>
