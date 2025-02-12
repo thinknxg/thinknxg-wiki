@@ -1,17 +1,17 @@
 app_name = "wiki"
-app_title = "Wiki"
-app_publisher = "Frappe"
+app_title = "thinkNXG Wiki"
+app_publisher = "thinkNXG"
 app_description = "Simple Wiki App"
 app_icon = "octicon octicon-file-directory"
 app_color = "grey"
-app_email = "developers@frappe.io"
+app_email = "developers@thinknxg.io"
 app_license = "MIT"
 
 add_to_apps_screen = [
 	{
-		"name": "wiki",
-		"logo": "/assets/wiki/images/wiki-logo.png",
-		"title": "Wiki",
+		"name": "thinknxg Wiki",
+		"logo": "/assets/wiki/images/thinkNXG-logo.jpg",
+		"title": "thinkNXG Wiki",
 		"route": "/app/wiki",
 		"has_permission": "wiki.utils.check_app_permission",
 	}
